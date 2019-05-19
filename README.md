@@ -1,4 +1,4 @@
-Weather Underground PWS Python API
+Weather Underground PWS Python API [![Build Status](https://travis-ci.com/MarcoBuster/WUndergroundPWS-API.svg?branch=master)](https://travis-ci.com/MarcoBuster/WUndergroundPWS-API)
 ==================================
 
 A small Python module for [Weather Underground PWS](https://www.wunderground.com/weatherstation/hardwareandsoftware.asp)
