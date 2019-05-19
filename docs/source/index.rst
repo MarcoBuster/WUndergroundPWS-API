@@ -3,11 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-WUnderground PWS Python API's documentation
-================================================
+Weather Underground PWS Python API's documentation
+==================================================
+
+Installation
+************
+
+You can install this module by using pip::
+
+   $ pip3 install wunderground_pws
+
+
+WUndergroundAPI class
+*********************
 
 .. automodule:: wunderground_pws
    :members: WUndergroundAPI
+
+Common exceptions
+*****************
 
 .. automodule:: wunderground_pws.exceptions
    :members: BadRequestError, StationIDNotSuppliedError
