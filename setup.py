@@ -10,10 +10,10 @@ setup(
     description="Small Python module for Weather Underground PWS APIs",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://marcobuster.github.io/wundergroundpws-api",
+    url="https://docs.marcoaceti.it/wundergroundpws/",
     project_urls={
         "GitHub": "https://github.com/MarcoBuster/WUndergroundPWS-API",
-        "Documentation": "https://marcobuster.github.io/wundergroundpws-api",
+        "Documentation": "https://docs.marcoaceti.it/wundergroundpws/",
     },
     author="Marco Aceti",
     author_email="mail@marcoaceti.it",
