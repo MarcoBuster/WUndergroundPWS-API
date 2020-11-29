@@ -43,6 +43,7 @@ class WUndergroundAPI:
             'apiKey': self.api_key,
             'units': self.units,
             'format': self.fmt,
+            'numericPrecision': 'decimal',
             **kwargs
         })
         if r.status_code != 200:
